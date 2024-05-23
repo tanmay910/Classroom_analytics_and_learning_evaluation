@@ -1,5 +1,3 @@
-
-
 # Classroom Analytics and Learning Evaluation using Computer Vision
 
 ## Overview
@@ -25,11 +23,14 @@ We utilize the Mediapipe model to detect body landmarks, such as keypoints repre
 ### Engagement Classification
 By combining the facial expression and body activity labels, we assign each student a final label of either "focused", "confused", "distracted", or "disengaged", providing educators with a comprehensive assessment of student engagement levels.
 
+![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/e2222608-a703-4c3d-aec4-f286dee8040b)
 
-![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/7586f86b-c9ff-4951-902e-507d4344fe2b)
 
 ## Demo
 #### Output of posture Model
+![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/bca3c861-dcb4-465f-9c30-1cb5dfcc4500)
+#### Ouput of  Integrated Model
+![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/d55e0fc5-510d-494b-b19a-29673682cfe0)
 
 
 
@@ -37,9 +38,24 @@ By combining the facial expression and body activity labels, we assign each stud
 
 The project enhances the learning experience for both students and educators. Real-time feedback on student engagement allows educators to tailor their teaching strategies. Data from the system can identify trends and patterns in student behavior, enabling data-driven decisions to improve classroom dynamics and student outcomes.
 
+## Access to Large Files
+
+Some of the large files related to this project are stored in a Google Drive folder due to their size. You can access these files using the link below:
+
+[Google Drive Folder - Project Files](https://drive.google.com/drive/folders/1lnpSW-eM63E2NS-U329I_7vCuAUt1lc2?usp=sharing)
+
+This folder includes:
+- High-resolution video samples
+- Pre-trained model weights
+- Additional datasets
+
 ## Repository
 
 You can access the project repository on GitHub: [Classroom Analytics and Learning Evaluation](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation)
+
+## Contact
+
+If you have any questions or need further assistance, please contact [Your Name] at [Your Email].
 
 ---
 
