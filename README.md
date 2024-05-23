@@ -51,7 +51,7 @@ This folder includes:
 
 ## Repository
 
-You can access the project repository on GitHub: [Classroom Analytics and Learning Evaluation](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation)
+You can access the project repository on GitHub: [Classroom Analytics and Learning Evaluation](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation.git)
 
 ## Contact
 
