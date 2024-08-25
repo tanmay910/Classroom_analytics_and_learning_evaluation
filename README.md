@@ -28,14 +28,17 @@ By combining the facial expression and body activity labels, we assign each stud
 
 ## Demo
 #### Output of posture Model
-<video width="600" controls>
-  <source src="demo/combining all models_output.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://github.com/user-attachments/assets/0fb721cc-73e5-4366-ab38-76e45629c02f)](https://drive.google.com/file/d/1BshqUYap4b1IORlbaFPXbLnKAVGHAEZu/view?usp=sharing)
 
+<!---
 ![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/bca3c861-dcb4-465f-9c30-1cb5dfcc4500)
+--->
 #### Ouput of  Integrated Model
-![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/d55e0fc5-510d-494b-b19a-29673682cfe0)
+[![Watch the video](https://github.com/user-attachments/assets/73f4d1ff-88db-4cc8-972d-ac1fe630521d)](https://drive.google.com/file/d/1jS2VMI87h5yOnh7j3Ncv54JGBW6ZGdTV/view?usp=sharing)
 
+<!---
+![image](https://github.com/tanmay910/Classroom_analytics_and_learning_evaluation/assets/105966781/d55e0fc5-510d-494b-b19a-29673682cfe0)
+--->
 
 
 ## Significance
