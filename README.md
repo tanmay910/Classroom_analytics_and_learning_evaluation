@@ -62,7 +62,7 @@ You can access the project repository on GitHub: [Classroom Analytics and Learni
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [Your Name] at [Your Email].
+If you have any questions or need further assistance, please contact [Tanmay Mahajan] at [mahajantanmay910@gmail.com].
 
 ---
 
